@@ -29,3 +29,5 @@ I'm in my First Year of a 4-Year apprenticeship to become a software engineer.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Uruguruu&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Uruguruu&langs_count=5&theme=tokyonight)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
