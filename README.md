@@ -49,11 +49,11 @@ I'm in my First Year of a 4-Year apprenticeship to become a software engineer.
       <br/>
         <p align="center">
           <a href="https://github.com/yutive/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutive&langs_count=6&theme=dracula&layout=compact&hide_border=true" alt="yutive :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uruguruu&langs_count=6&theme=dracula&layout=compact&hide_border=true" alt="yutive :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yutive&theme=dracula&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=uruguruu&theme=dracula&hide_border=true" />
           </a>
        </p>
      <br>
