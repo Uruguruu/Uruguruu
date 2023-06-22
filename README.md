@@ -24,7 +24,7 @@ I'm in my First Year of a 4-Year apprenticeship to become a software engineer.
 
 ## Reasons for my Sleep Schedule
 
-<img src="https://th.bing.com/th/id/R.9d03c274c78e32ec723bbbf31caa6156?rik=5VypbyHloCpXHg&pid=ImgRaw&r=0"  height="70" />
+<img src="https://thumbs.gfycat.com/SentimentalBleakAmericanwigeon.webp"  height="70" />
 
 ```
  _________ 
