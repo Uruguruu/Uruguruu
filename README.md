@@ -1,6 +1,5 @@
 <h1 align="center" textalign="center">
   Hi there!
-  <img src="https://th.bing.com/th/id/R.e01866a62d0c493df9ae72c2fbb3b7ec?rik=vwsAw0eGBLJI3g&pid=ImgRaw&r=0"  height="70" />
   My Name is Samuel.
   <br/> Welcome to my GitHub Account!
 </h1>
@@ -21,27 +20,6 @@
 ### NOW(2023)
 
 I'm in my First Year of a 4-Year apprenticeship to become a software engineer.
-
-## Reasons for my Sleep Schedule
-
-<img src="https://thumbs.gfycat.com/SentimentalBleakAmericanwigeon.webp"  height="70" />
-
-```
- _________ 
-| = = = = |
-|         |
-| |  || | |
-|         |
-| |  || | |
-|         |
-| |  || | |
-| |  || | |
-|         |
-| ||||||| |
-| ||||||| |
-| ||||||| |
-
-```
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
