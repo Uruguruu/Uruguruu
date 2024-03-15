@@ -4,6 +4,10 @@
   <br/> Welcome to my GitHub Account!
 </h1>
 
+MY SLOGAN:
+When your team leader asks you which team you work in and he is shocked at your answer "in yours"
+That's the sign that it would be smart to attend at least one team event.
+
 ### Background
 
 - I was born and raised in a Switzerland. 
