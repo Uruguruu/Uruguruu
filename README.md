@@ -21,9 +21,9 @@ That's the sign that it would be smart to attend at least one team event.
 - Englisch (8)
 - French (3) 
 
-### NOW(2023)
+### NOW(2024)
 
-I'm in my First Year of a 4-Year apprenticeship to become a software engineer.
+I'm in my second Year of a 4-Year apprenticeship to become a software engineer.
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
