@@ -19,4 +19,4 @@
 
 ### NOW(2025)
 
-I'm in my thrid Year of a 4-Year apprenticeship to become a software engineer.
+I'm in my final year of a 4-Year apprenticeship to become a software engineer.
