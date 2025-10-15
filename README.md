@@ -5,13 +5,13 @@
 
 ### Background
 
-- My first Computer contact was early on vibing to the Music on the CD-Player 🎸
-- Through my father's job as an application developer, I dealt a lot with computers, and I knew pretty much what I wanted to do.
-- With the discovery of my passion for gaming, the connection grew to what it is today.
-- In Secondary School I started to take over managment for my dads for websites that he hosts for Family and Friends.
-- Soon I made Websites for Businesses that aproached my father for work and so I upgraded my skills over the years.
+* My fascination with technology began at a young age, heavily influenced by my father's work as an application developer. This early exposure solidified my ambition to pursue a career in the field. 💻
+* My passion for gaming further deepened this connection, sparking a keen interest in software architecture and user experience. 🎮
+* I began my practical journey in secondary school by managing websites for family and friends. 🌐
+* This responsibility soon evolved into developing websites for small businesses, allowing me to continuously advance my skills through hands-on, real-world projects over the years. 📈
+* During my apprenticeship, I built on this foundation, accelerating my learning across a variety of modern web technologies (like Next.js and NiceGUI) and diving deep into the SAP ecosystem (ABAP, Fiori, SAPUI5). 🚀
 
-### My language skills from 1 - 10
+### My Human language skills from 1 - 10
 
 - German (Mother tongue)
 - Englisch (8)
