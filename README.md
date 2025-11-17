@@ -30,7 +30,7 @@ I'm in my final year of a 4-Year apprenticeship to become a software engineer.
   <p align="center">
     <a href="https://github.com/Uruguruu/">
       <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uruguruu&theme=github_dark" alt="Uruguruu Langs :: Top Langs by repo" />
-      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uruguruu&theme=github_dark" alt="Uruguruu Commits :: Top Langs by commit" />
+      <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uruguruu&theme=github_dark" alt="Uruguruu Commits :: Top Langs by commit" />
     </a>
   </p>
 
