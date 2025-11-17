@@ -20,3 +20,25 @@
 ### NOW(2025)
 
 I'm in my final year of a 4-Year apprenticeship to become a software engineer.
+
+### Stats
+<details>
+<summary>📊 GitHub Stats</summary>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uruguruu&theme=github_dark">
+
+  <p align="center">
+    <a href="https://github.com/Uruguruu/">
+      <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uruguruu&theme=github_dark" alt="Uruguruu Langs :: Top Langs by repo" />
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uruguruu&theme=github_dark" alt="Uruguruu Commits :: Top Langs by commit" />
+    </a>
+  </p>
+
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Uruguruu&label=Profile+Views&color=blueviolet&style=flat" alt="Uruguruu" />
+</p>
